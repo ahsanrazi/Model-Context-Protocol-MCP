@@ -1,2 +1,2 @@
-# Model-Context-Protocol-MCP-
+# Model-Context-Protocol-MCP
 This is the MCP Repository.
